@@ -74,8 +74,12 @@ Things I use on a daily basis
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws">
   </a>
   <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=scikitlearn">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jupyter&svgfill=f37626" />
   </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=colab">
+  </a>
+  
 </p>
 
 <!-- ================================================================================================================================================================ -->
