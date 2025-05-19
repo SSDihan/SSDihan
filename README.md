@@ -69,6 +69,10 @@ Things I use on a daily basis
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
   </a>
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws">
+  </a>
 </p>
 
 <!-- ================================================================================================================================================================ -->
