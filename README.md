@@ -55,14 +55,14 @@ Things I use on a daily basis
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=15d8fe">  
   </a>
   <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html&svgfill=2d79c7">
-  </a>
-  <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-  </a>
-  <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-  </a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&animation=spin&svgfill=15d8fe" alt="HTML" />
+</a>
+<a href="https://github.com/SSDihan">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&animation=spin&svgfill=15d8fe" alt="SQL" />
+</a>
+<a href="https://github.com/SSDihan">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apex&animation=spin&svgfill=15d8fe" alt="Apex" />
+</a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
   </a>
