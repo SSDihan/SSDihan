@@ -49,7 +49,7 @@ Things I use on a daily basis
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva&svgfill=f25425">
   </a>
   <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f6851d">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=aws&svgfill=5c3ee8" />
   </a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
