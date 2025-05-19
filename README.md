@@ -64,7 +64,7 @@ Things I use on a daily basis
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&svgfill=15d8fe" alt="Apex" />
 </a>
   <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS&svgfill=028dd1">
   </a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
