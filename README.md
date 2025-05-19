@@ -30,8 +30,17 @@ Things I use on a daily basis
   <a href="https://github.com/SSDihan">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=pulse&svgfill=3776ab">
 </a>
+   <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tensorflow&svgfill=ff6f00">
+  </a>
+   <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pytorch&svgfill=ee4c2c">
+  </a>
   <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=2d79c7">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pandas&svgfill=150458">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=numpy&svgfill=013243">
   </a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=f25425">
