@@ -52,7 +52,7 @@ Things I use on a daily basis
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=googlecloud&svgfill=f25425">
   </a>
   <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Amazon Textract&animation=spin&svgfill=15d8fe">  
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=15d8fe">  
   </a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
