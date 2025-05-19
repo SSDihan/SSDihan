@@ -55,7 +55,7 @@ Things I use on a daily basis
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=15d8fe">  
   </a>
   <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=15d8fe" alt="HTML" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=15d8fe" alt="HTML">
 </a>
 <a href="https://github.com/SSDihan">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=15d8fe" alt="SQL" />
