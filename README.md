@@ -58,10 +58,10 @@ Things I use on a daily basis
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=15d8fe" alt="HTML">
 </a>
 <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=15d8fe" alt="SQL" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=15d8fe" alt="SQL">
 </a>
 <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&svgfill=15d8fe" alt="Apex" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=oracle&svgfill=15d8fe" alt="Apex">
 </a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
@@ -69,31 +69,28 @@ Things I use on a daily basis
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
   </a>
-  </a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=amazonaws">
   </a>
   <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jupyter&svgfill=f37626" />
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jupyter&svgfill=f37626">
+    </a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb">
   </a>
   <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=keras" alt="Keras" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=keras" alt="Keras" >
 </a>
 <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=seaborn" alt="Seaborn" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=seaborn" alt="Seaborn">
 </a>
 <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=matplotlib" alt="Matplotlib" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=matplotlib" alt="Matplotlib">
 </a>
 <a href="https://github.com/SSDihan">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=scikitlearn" alt="Scikit-learn" />
 </a>
-
-  
 </p>
-
 <!-- ================================================================================================================================================================ -->
 
 ## 🏆 GitHub Trophies
