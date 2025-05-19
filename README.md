@@ -1,4 +1,90 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=SSDihan&style=for-the-badge)
+
+<!-- ================================================================================================================================================================ -->
+<!-- <div align="center">
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div>
+-->
+<p align="center"> Profile Under Development (Open for Hiring)</p>
+<hr>
+<!-- ================================================================================================================================================================ -->
+
+<!-- ================================================================================================================================================================ -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Md+Adib+Khan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<p align="center">
+  <a target="_blank" href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/shahriar-sadman-dihan-3950aa222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="shahriarsadmandihan2016@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<!-- ================================================================================================================================================================ -->
+Things I use on a daily basis
+
+<p align="left">
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=pulse&svgfill=59c7f8">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=2d79c7">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=f25425">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f6851d">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+  </a>
+  <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+  </a>
+</p>
+
+<!-- ================================================================================================================================================================ -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SSDihan&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<!--
+<a href="https://github.com/SSDihan/SSDihan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SSDihan&repo=Laryngeal-Cancer-Detection-and-Classification-Using-Deep-Learning-on-Histopathological-Images &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project1" />
+</a>
+
+<a href="https://github.com/SSDihan/SSDihan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SSDihan&repo=JAVA-SORCE-CODE-SUMMARIZATION &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project2" />
+</a>
+-->
+
+<!-- ================================================================================================================================================================ -->
+
 
 <!--
 **SSDihan/SSDihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
