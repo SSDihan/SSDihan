@@ -45,9 +45,9 @@ Things I use on a daily basis
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=f25425">
   </a>
-  <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=wordpress&svgfill=21759b">
-  </a>
+  <a href="https://www.canva.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canva_Logo.png" alt="Canva" width="40" height="40" style="vertical-align:middle;"/>
+</a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f6851d">
   </a>
