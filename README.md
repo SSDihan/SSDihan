@@ -13,14 +13,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shahriar+Sadman+Dihan....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shahriar+Sadman....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <p align="center">
-  <a target="_blank" href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/shahriar-sadman-dihan-3950aa222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="[https://www.linkedin.com/in/md-adib-khan-94a539316](https://www.linkedin.com/in/shahriar-sadman-dihan-3950aa222)/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shahriarsadmandihan2016@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
   <a href="shahriarsadmandihan2016@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
