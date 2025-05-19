@@ -28,8 +28,8 @@ Things I use on a daily basis
 
 <p align="left">
   <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=pulse&svgfill=59c7f8">
-  </a>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&animation=pulse&svgfill=3776ab">
+</a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=2d79c7">
   </a>
