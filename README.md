@@ -48,9 +48,9 @@ Things I use on a daily basis
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva&svgfill=f25425">
   </a>
- <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS" width="40" height="40" />
-</a>
+ <a href="https://github.com/SSDihan">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=googlecloud&svgfill=f25425">
+  </a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
   </a>
