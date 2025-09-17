@@ -81,8 +81,8 @@ Things I use on a daily basis
   <a href="https://github.com/SSDihan">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=keras" alt="Keras" >
 </a>
-  <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=4285F4&logo=googlecloud" alt="Google Cloud" >
+ <a href="https://github.com/SSDihan">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=googlecloud" alt="Google Cloud" >
 </a>
 </p>
 <!-- ================================================================================================================================================================ -->
