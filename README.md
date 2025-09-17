@@ -83,8 +83,8 @@ Things I use on a daily basis
 </a>
  <a href="https://github.com/SSDihan">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=openai" alt="OpenAI" >
-   <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=FFD43B&logo=python" alt="Python" >
+ <a href="https://github.com/SSDihan">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&logoColor=FFD43B" alt="Python" >
 </a>
 </a>
 </p>
