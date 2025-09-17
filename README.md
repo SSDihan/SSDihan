@@ -48,9 +48,9 @@ Things I use on a daily basis
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva&svgfill=f25425">
   </a>
- <a href="https://github.com/SSDihan">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=googlecloud&svgfill=f25425">
-  </a>
+<a href="https://github.com/SSDihan">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=googlecloud" alt="Google Cloud" >
+</a>
   <a href="https://github.com/SSDihan">
     <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&animation=spin&svgfill=15d8fe">  
   </a>
