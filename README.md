@@ -84,7 +84,7 @@ Things I use on a daily basis
  <a href="https://github.com/SSDihan">
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=openai" alt="OpenAI" >
  <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&color=FFD43B" alt="Python" >
+  <img src="https://img.shields.io/badge/-Python-FFD43B?logo=python&logoColor=white&style=flat" alt="Python" >
 </a>
 </a>
 </p>
