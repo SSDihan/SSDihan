@@ -82,7 +82,7 @@ Things I use on a daily basis
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=keras" alt="Keras" >
 </a>
  <a href="https://github.com/SSDihan">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pytorch" alt="PyTorch" >
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=openai" alt="OpenAI" >
 </a>
 </p>
 <!-- ================================================================================================================================================================ -->
