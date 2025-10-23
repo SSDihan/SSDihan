@@ -91,8 +91,7 @@ Things I use on a daily basis
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SSDihan&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🗂️ Highlight Projects
-
+![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
 <!--
 <a href="https://github.com/SSDihan/SSDihan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SSDihan&repo=Laryngeal-Cancer-Detection-and-Classification-Using-Deep-Learning-on-Histopathological-Images &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project1" />
