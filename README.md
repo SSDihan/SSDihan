@@ -5,7 +5,10 @@
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
 -->
-<p align="center"> Profile Under Development (Open for Hiring)</p>
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 22px; font-weight: bold;">
+  AI Developer | CSE Graduate | Data Science Major
+</p>
+
 <hr>
 <!-- ================================================================================================================================================================ -->
 
