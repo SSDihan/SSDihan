@@ -22,7 +22,7 @@
   <a href="mailto:shahriarsadmandihan2016@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-  
+  [![My Tech Skills](https://github.com/user-attachments/assets/1064363e-3f0c-4bc4-bf56-084584ac0095)](www.linkedin.com/in/ssdihan)
 <!-- ================================================================================================================================================================ -->
 Things I use on a daily basis
 
@@ -86,10 +86,6 @@ Things I use on a daily basis
 </a>
 </p>
 <!-- ================================================================================================================================================================ -->
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SSDihan&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
 <!--
