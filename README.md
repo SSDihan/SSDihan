@@ -93,13 +93,13 @@ Things I use on a daily basis
 <!-- ================================================================================================================================================================ -->
 
 ![Checkout my Projects](https://github.com/user-attachments/assets/24348e83-9164-475f-977c-04ff0ac384e4)
-<h2 align="center">Repos You cann't Miss!</h2>
-<a href="https://github.com/SSDihan/SSDihan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SSDihan&repo=Laryngeal-Cancer-Detection-and-Classification-Using-Deep-Learning-on-Histopathological-Images &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project1" />
+<h2 align="center">Repos You Can't Miss!</h2>
+<a href="https://github.com/SSDihan/Laryngeal-Cancer-Detection-and-Classification-Using-Deep-Learning-on-Histopathological-Images">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SSDihan&repo=Laryngeal-Cancer-Detection-and-Classification-Using-Deep-Learning-on-Histopathological-Images&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project1" />
 </a>
 
-<a href="https://github.com/SSDihan/SSDihan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SSDihan&repo=JAVA-SORCE-CODE-SUMMARIZATION &show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project2" />
+<a href="https://github.com/SSDihan/JAVA-SORCE-CODE-SUMMARIZATION">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SSDihan&repo=JAVA-SORCE-CODE-SUMMARIZATION&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="project2" />
 </a>
 
 
